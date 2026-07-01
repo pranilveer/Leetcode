@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranilveer/Leetcode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/pranilveer/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranilveer/Leetcode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/pranilveer/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
