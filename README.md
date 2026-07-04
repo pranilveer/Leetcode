@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranilveer/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pranilveer/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranilveer/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranilveer/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranilveer/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/pranilveer/Leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
