@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranilveer/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranilveer/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranilveer/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranilveer/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranilveer/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pranilveer/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/pranilveer/Leetcode/tree/master/0520-detect-capital) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranilveer/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
