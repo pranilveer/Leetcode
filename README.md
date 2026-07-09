@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pranilveer/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pranilveer/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pranilveer/Leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/pranilveer/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
