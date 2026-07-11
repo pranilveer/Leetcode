@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pranilveer/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pranilveer/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pranilveer/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pranilveer/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/pranilveer/Leetcode/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
