@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranilveer/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranilveer/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/pranilveer/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/pranilveer/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranilveer/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pranilveer/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pranilveer/Leetcode/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/pranilveer/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pranilveer/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/pranilveer/Leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
