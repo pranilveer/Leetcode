@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/pranilveer/Leetcode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/pranilveer/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pranilveer/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/pranilveer/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/pranilveer/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pranilveer/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/pranilveer/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
