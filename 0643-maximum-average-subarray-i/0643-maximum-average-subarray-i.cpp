@@ -6,13 +6,13 @@ public:
         for(int i=0; i<k; i++){
             sum+= nums[i];
         }
-        ans = sum/k;
+        ans = sum;
         int j=0;
         for(int i=k; i<nums.size(); i++){
             sum += nums[i] - nums[j];
-            ans = max(ans, sum/k);
+            ans = max(ans, sum);
             j++;
         }
-        return ans;
+        return ans/k;
     }
 };
