@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranilveer/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pranilveer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranilveer/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/pranilveer/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pranilveer/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/pranilveer/Leetcode/tree/master/0139-word-break) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pranilveer/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranilveer/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/pranilveer/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/pranilveer/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pranilveer/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pranilveer/Leetcode/tree/master/0189-rotate-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pranilveer/Leetcode/tree/master/0043-multiply-strings) |
 | [0844-backspace-string-compare](https://github.com/pranilveer/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/pranilveer/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
