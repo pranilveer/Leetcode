@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pranilveer/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pranilveer/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pranilveer/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pranilveer/Leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranilveer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pranilveer/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranilveer/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pranilveer/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/pranilveer/Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/pranilveer/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/pranilveer/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pranilveer/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranilveer/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
