@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranilveer/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pranilveer/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranilveer/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranilveer/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/pranilveer/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
