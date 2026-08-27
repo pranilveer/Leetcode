@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranilveer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/pranilveer/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
