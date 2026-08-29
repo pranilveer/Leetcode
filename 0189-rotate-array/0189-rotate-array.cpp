@@ -7,12 +7,13 @@ public:
         rev(nums, 0, k-1);
         rev(nums, k, n-1);
     }
+
 private:
     void rev(vector<int>& nums, int l, int r){
         while(l<r){
-            int temp = nums[l];
+            int temp= nums[l];
             nums[l]= nums[r];
-            nums[r]= temp;
+            nums[r]=temp;
             l++;
             r--;
         }
