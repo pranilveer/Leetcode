@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranilveer/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pranilveer/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
