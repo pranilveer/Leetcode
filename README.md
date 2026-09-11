@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/pranilveer/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/pranilveer/Leetcode/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/pranilveer/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranilveer/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pranilveer/Leetcode/tree/master/0383-ransom-note) |
@@ -322,4 +323,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pranilveer/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pranilveer/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
