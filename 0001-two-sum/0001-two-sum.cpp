@@ -7,8 +7,8 @@ public:
             if(mpp.find(diff) != mpp.end()){
                 return {mpp[diff], i};
             }
-            mpp[nums[i]]= i;
+            mpp[nums[i]] = i;
         }
-        return {};
+        return {-1, -1};
     }
 };
