@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/pranilveer/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/pranilveer/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pranilveer/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pranilveer/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranilveer/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/pranilveer/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/pranilveer/Leetcode/tree/master/0162-find-peak-element) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranilveer/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/pranilveer/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranilveer/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/pranilveer/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/pranilveer/Leetcode/tree/master/0392-is-subsequence) |
