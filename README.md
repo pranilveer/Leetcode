@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranilveer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pranilveer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pranilveer/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranilveer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pranilveer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranilveer/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pranilveer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pranilveer/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pranilveer/Leetcode/tree/master/0575-distribute-candies) |
 | [1122-relative-sort-array](https://github.com/pranilveer/Leetcode/tree/master/1122-relative-sort-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranilveer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranilveer/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranilveer/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/pranilveer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/pranilveer/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranilveer/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/pranilveer/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pranilveer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranilveer/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Newton's Method
 |  |
